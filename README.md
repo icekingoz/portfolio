@@ -3,8 +3,8 @@
 Hi, i'm Ozzy Inatullaev, a Senior QA Automation Engineer with over 12 years of experience in software testing and automation, specializing in Selenium, Cypress, and Playwright. I have extensive experience in building and utilizing UI and API automation frameworks, like Selenium, RestAssured, Jmeter, Cypress and Playwright. I like seeing my automated tests run and pass, like getting to the bottom of a flacky test and seeing all green in the report!
 
 🚀 Examples of my frameworks  
-🔹 [Kiparis](https://github.com/icekingoz/kiparis_framework) - a Cypress Framework with a BDD and Cucumber Reporting
-🔹
+🔹 [Kiparis](https://github.com/icekingoz/kiparis_framework) - a Cypress Framework with a BDD and Cucumber Reporting  
+🔹[Selenium4dotO](https://github.com/icekingoz/selenium4dotO) - 3 in 1 UI, API and Performance Automation Framework  
 🔹
 
 🛠 Tech Stack  

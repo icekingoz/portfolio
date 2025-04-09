@@ -5,7 +5,7 @@ Hi, i'm Ozzy Inatullaev, a Senior QA Automation Engineer with over 12 years of e
 🚀 Examples of my frameworks  
 🔹 [Kiparis](https://github.com/icekingoz/kiparis_framework) - a Cypress Framework with a BDD and Cucumber Reporting  
 🔹[Selenium4dotO](https://github.com/icekingoz/selenium4dotO) - 3 in 1 UI, API and Performance Automation Framework  
-🔹
+🔹[Dostoevsky](https://github.com/icekingoz/dostoevsky) - a Playwright Framework with Allure Reporting
 
 🛠 Tech Stack  
 Automation Frameworks: Selenium, Cypress, Playwright, Cucumber (BDD)  

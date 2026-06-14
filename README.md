@@ -19,16 +19,20 @@ Frameworks 🛠️
 
 Each repo uses a different stack and covers a different layer of testing. Click through for setup and details.
 
-FrameworkStackWhat it coversDostoevskyPlaywright · JavaScript · AllureEnd-to-end UI automation with Page Object Model, parallel execution, and Allure reporting.KiparisCypress · Cucumber (BDD) · TypeScriptBDD-style UI automation with a Gherkin layer, Page Object Model, fixture-based test data, and HTML / JSON / Cucumber reports with video capture.Selenium4dotOJava · Selenium 4 · TestNG · Cucumber · REST Assured · JMeterUI, API, and performance testing in one suite, with TestNG (TDD) and Cucumber (BDD) support.
+- FrameworkStackWhat it coversDostoevskyPlaywright · JavaScript · AllureEnd-to-end UI automation with Page Object Model, parallel execution, and Allure reporting.
+
+- KiparisCypress · Cucumber (BDD) · TypeScriptBDD-style UI automation with a Gherkin layer, Page Object Model, fixture-based test data, and HTML / JSON / Cucumber reports with video capture.
+
+- Selenium4dotOJava · Selenium 4 · TestNG · Cucumber · REST Assured · JMeterUI, API, and performance testing in one suite, with TestNG (TDD) and Cucumber (BDD) support.
 
 
 Tech Stack 🧰 
 
-Automation — Playwright · Cypress · Selenium · Cucumber (BDD)
-Languages — Java · JavaScript · Python · Ruby · SQL
-API & Performance — REST Assured · Postman · JMeter
-CI/CD & Tooling — Jenkins · GitHub Actions · Docker 
-Test Management — Jira + Xray · TestRail · Confluence · Notion · Miro
+- Automation — Playwright · Cypress · Selenium · Cucumber (BDD)
+- Languages — Java · JavaScript · Python · Ruby · SQL
+- API & Performance — REST Assured · Postman · JMeter
+- CI/CD & Tooling — Jenkins · GitHub Actions · Docker 
+- Test Management — Jira + Xray · TestRail · Confluence · Notion · Miro
 
 
 Currently Learning 💭

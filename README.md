@@ -42,6 +42,6 @@ Self-healing locators and better flakiness detection in CI
 
 Contact
 
-📧 ozzyqa@gmail.com  ·  🔗 LinkedIn
+📧 ozzyqa@gmail.com  ·  🔗 [LinkedIn](https://www.linkedin.com/in/ozzyinatullaev/)
 
 <sub>Open to Senior SDET / QA Automation roles. Happy to walk through any of the frameworks above.</sub>

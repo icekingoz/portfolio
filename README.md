@@ -1,19 +1,47 @@
-# portfolio
-👋 About Me  
-Hi, i'm Ozzy Inatullaev, a Senior QA Automation Engineer with over 12 years of experience in software testing and automation, specializing in Selenium, Cypress, and Playwright. I have extensive experience in building and utilizing UI and API automation frameworks, like Selenium, RestAssured, Jmeter, Cypress and Playwright. I like seeing my automated tests run and pass, like getting to the bottom of a flacky test and seeing all green in the report!
+<h1 align="center">Ozzy Inatullaev</h1>
+<p align="center"><b>Senior QA Automation Engineer / SDET</b> · 10+ years in software testing · Bay Area, CA</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-10%2B%20years-1f6feb" alt="10+ years experience" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium" />
+</p>
 
-🚀 Examples of my frameworks  
-🔹 [Kiparis](https://github.com/icekingoz/kiparis_framework) - a Cypress Framework with a BDD and Cucumber Reporting  
-🔹[Selenium4dotO](https://github.com/icekingoz/selenium4dotO) - 3 in 1 UI, API and Performance Automation Framework  
-🔹[Dostoevsky](https://github.com/icekingoz/dostoevsky) - a Playwright Framework with Allure Reporting
+About 👋
+Hi, my name is Ozzy.
 
-🛠 Tech Stack  
-Automation Frameworks: Selenium, Cypress, Playwright, Cucumber (BDD)  
-Programming: Java, JavaScript, Python, Ruby, SQL  
-API & Performance Testing: REST Assured, Postman, JMeter  
-CI/CD & DevOps: Jenkins, Git, SVN, Github, Docker  
-Test Management & Documentation: Jira + Xray, Confluence, TestRail, Notion, Miro   
-💡 Passionate about improving automation strategies, enhancing test efficiency, and exploring new testing tools.  
+I'm a Senior QA Automation Engineer / SDET with 10+ years in software testing. I started in manual QA and moved into automation, and these days I build and maintain UI, API, and performance test frameworks. I work across Playwright, Cypress, and Selenium and pick the right tool for the job rather than forcing a favorite.
 
-📬 Let’s Connect!  
-📧 ozzyqa@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/ozzyinatullaev/)
+This repo collects the frameworks I've built — so you can look at my work and judge for yourself.
+
+
+Frameworks 🛠️
+
+Each repo uses a different stack and covers a different layer of testing. Click through for setup and details.
+
+FrameworkStackWhat it coversDostoevskyPlaywright · JavaScript · AllureEnd-to-end UI automation with Page Object Model, parallel execution, and Allure reporting.KiparisCypress · Cucumber (BDD) · TypeScriptBDD-style UI automation with a Gherkin layer, Page Object Model, fixture-based test data, and HTML / JSON / Cucumber reports with video capture.Selenium4dotOJava · Selenium 4 · TestNG · Cucumber · REST Assured · JMeterUI, API, and performance testing in one suite, with TestNG (TDD) and Cucumber (BDD) support.
+
+
+Tech Stack 🧰 
+
+Automation — Playwright · Cypress · Selenium · Cucumber (BDD)
+Languages — Java · JavaScript · Python · Ruby · SQL
+API & Performance — REST Assured · Postman · JMeter
+CI/CD & Tooling — Jenkins · GitHub Actions · Docker 
+Test Management — Jira + Xray · TestRail · Confluence · Notion · Miro
+
+
+Currently Learning 💭
+
+
+AI-assisted test generation and maintenance with LLM tooling
+Approaches to testing non-deterministic / LLM-powered features
+Self-healing locators and better flakiness detection in CI
+
+
+
+Contact
+
+📧 ozzyqa@gmail.com  ·  🔗 LinkedIn
+
+<sub>Open to Senior SDET / QA Automation roles. Happy to walk through any of the frameworks above.</sub>

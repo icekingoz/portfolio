@@ -21,7 +21,7 @@ Each repo uses a different stack and covers a different layer of testing. Click 
 
 - FrameworkStackWhat it coversDostoevskyPlaywright · JavaScript · AllureEnd-to-end UI automation with Page Object Model, parallel execution, and Allure reporting.
 
-- KiparisCypress · Cucumber (BDD) · TypeScriptBDD-style UI automation with a Gherkin layer, Page Object Model, fixture-based test data, and HTML / JSON / Cucumber reports with video capture.
+- [Kiparis](https://github.com/icekingoz/kiparis_framework) · Cypress ·  Cucumber (BDD) · TypeScriptBDD-style UI automation with a Gherkin layer, Page Object Model, fixture-based test data, and HTML / JSON / Cucumber reports with video capture.
 
 - [Selenium4dotO](https://github.com/icekingoz/selenium4dotO) · Selenium 4 · TestNG · Cucumber · REST Assured · JMeterUI, API, and performance testing in one suite, with TestNG (TDD) and Cucumber (BDD) support.
 

@@ -19,7 +19,7 @@ Frameworks 🛠️
 
 Each repo uses a different stack and covers a different layer of testing. Click through for setup and details.
 
-- FrameworkStackWhat it coversDostoevskyPlaywright · JavaScript · AllureEnd-to-end UI automation with Page Object Model, parallel execution, and Allure reporting.
+- [Pliskin](https://github.com/icekingoz/pliskin_framework) · WIP  · Python  · Playwright  · Pytest with Stateless Page Object Model, Fixtures-based tests, and Allure Reporting. 
 
 - [Kiparis](https://github.com/icekingoz/kiparis_framework) · Cypress ·  Cucumber (BDD) · TypeScriptBDD-style UI automation with a Gherkin layer, Page Object Model, fixture-based test data, and HTML / JSON / Cucumber reports with video capture.
 
